@@ -1,5 +1,5 @@
 # Data-Exploration-on-Unemployment-and-Mental-illness-Survey-
-This is a dataset that shows the linkage between mental illness and unemployment.
+This is a data analyst project showing an exploratory analysis of the linkage between mental illness and unemployment from a dataset gotten from Kaggle using SQL. 
 
 
 ## Potential areas to investigate (explore) in the dataset:
